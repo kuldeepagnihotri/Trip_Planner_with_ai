@@ -3,7 +3,6 @@
 A small React app that turns a free-form trip description into a full,
 structured, interactive itinerary using a free OpenRouter LLM.
 
-Built for the Frontend Internship Assignment (trip planner option).
 
 ## Setup
 
